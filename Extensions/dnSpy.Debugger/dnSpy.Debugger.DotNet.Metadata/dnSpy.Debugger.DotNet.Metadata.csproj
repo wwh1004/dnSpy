@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="dnlib" Version="$(DnlibVersion)" />
+    <PackageReference Include="dnlib-wwh" Version="$(DnlibVersion)" />
   </ItemGroup>
 
 </Project>

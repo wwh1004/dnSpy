@@ -17,7 +17,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="dnlib" Version="$(DnlibVersion)" />
+    <PackageReference Include="dnlib-wwh" Version="$(DnlibVersion)" />
     <PackageReference Include="Microsoft.Build.Framework" Version="$(MSBuildNuGetVersion)" />
     <PackageReference Include="Microsoft.Build.Utilities.Core" Version="$(MSBuildNuGetVersion)" />
   </ItemGroup>
